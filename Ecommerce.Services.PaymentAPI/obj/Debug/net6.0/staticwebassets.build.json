@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VjH4D3I/2KOGIrwhNJmHkp8wtNJp2wb0oVectVTVGGc=",
+  "Source": "Ecommerce.Services.PaymentAPI",
+  "BasePath": "_content/Ecommerce.Services.PaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.csproj.AssemblyReference.cache
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.AssemblyInfo.cs
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.RazorAssemblyInfo.cache
+C:\Users\Aasif Ali\source\repos\Ecommerce\Ecommerce.Services.Identity\obj\Debug\net6.0\Ecommerce.Services.Identity.RazorAssemblyInfo.cs
