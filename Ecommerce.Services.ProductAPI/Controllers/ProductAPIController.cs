@@ -18,7 +18,7 @@ namespace Ecommerce.Services.ProductAPI.Controllers
             _response = new ResponseDto();
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<object> Get()
         {

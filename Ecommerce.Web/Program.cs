@@ -13,7 +13,7 @@ namespace Ecommerce.Web
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add services to theoidc container.
             builder.Services.AddControllersWithViews();
             StaticDetails.ProductAPIBase = builder.Configuration.GetSection("ServiceUrls:ProductAPI").Get<String>().ToString();
             builder.Services.AddHttpClient<IProductService, ProductService>();
@@ -22,7 +22,7 @@ namespace Ecommerce.Web
             builder.Services.AddAuthentication(options =>
             {
                 options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-                options.DefaultChallengeScheme = "oidc";
+                options.DefaultChallengeScheme = "";
             })
               .AddCookie(options =>
               {
